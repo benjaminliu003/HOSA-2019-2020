@@ -34,12 +34,12 @@ char auth[] = "";
 /*
    Network SSIDs and Passcodes are stored here.
 */
-char ssid[] = "H_SES_38944";
-char pass[] = "Ahxm@792";
+char ssid[] = "";
+char pass[] = "";
 
 //At School:
-//char ssid[] = "OnePlus 7";
-//char pass[] = "ESP-8266-2";
+//char ssid[] = "";
+//char pass[] = "";
 
 /*
    This function sends and receives data to anbd from virtual pin 2, the terminal on the Blynk UI.
